@@ -47,7 +47,7 @@ We’re pioneering the *first wearable crypto UX*—native to Solana.
 
 - 🌐 Website: [solanaglasses.com](http://www.solanaglasses.com)
 - 🐦 Twitter: [@solanaglasses](https://x.com/solanaglasses)
-- 📹 Demo (coming soon)
+- 📹 Demo: [Youtube](https://youtu.be/RYjXYKnqgYQ)
 - 📄 GitHub: *(you're here)*
 
 ---
