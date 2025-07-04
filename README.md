@@ -1,6 +1,6 @@
 # Solana Glasses 👓
 
-**Crypto Payments through Wearable Hardware**  
+**Crypto Payments Via Smart Glasses**  
 Built for Solana-native users. Powered by voice, vision, and on-chain magic.
 
 ---
